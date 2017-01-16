@@ -6,3 +6,4 @@ creating a new branch is quick & simple
 creating a new branch is quick and simple
 >>>>>>> geature1
 add one line
+git is software
